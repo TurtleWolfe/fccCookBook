@@ -57,7 +57,7 @@ npm run deploy
 [GitHub Pages Deploy & Domain: TraversyMedia  
 ![https://youtu.be/SKXkC4SqtRk][traversypages]](https://youtu.be/SKXkC4SqtRk')
 
-[traversypages]: src/shared/images/traversyPages.png 'GitHub Pages Deploy & Domain'
+[traversypages]: src/images/traversyPages.png 'GitHub Pages Deploy & Domain'
 
 1. [@ScriptHammer on Twitter](https://twitter.com/ScriptHammer 'Contact me on Twitter')
 1. [LinkedIn](https://www.linkedin.com/in/jonathan-pohlner-87796377/ 'FreeLance Web Developer')
@@ -65,7 +65,7 @@ npm run deploy
 [ScriptHammer.com  
 ![https://ScriptHammer.com][logo]](https://ScriptHammer.com 'Tech Journal')
 
-[logo]: src/shared/images/ScriptHammer.gif 'Tech Journal: ScriptHammer.com'
+[logo]: src/images/ScriptHammer.gif 'Tech Journal: ScriptHammer.com'
 
 ## [React CookBook](https://subscription.packtpub.com/book/web_development/9781783980727/2/ch02lvl1sec08/creating-our-first-react-component 'By Carlos Santana Roldán August 2018 Over 66 recipes that cover UI development, animations, component architecture, routing, and testing with React')
 
