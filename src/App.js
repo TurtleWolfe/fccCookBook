@@ -7,12 +7,12 @@ function App() {
       <header className="App-header">
         <a
           className="App-link"
-          href="https://github.com/TurtleWolfe/fccTempLate"
+          href="https://github.com/TurtleWolfe/fccCookBook"
           target="_blank"
           rel="noopener noreferrer"
-          title="fccTempLate"
+          title="fccCookBook"
         >
-          {/* fccTempLate */}
+          {/* fccCookBook */}
           <span className="App-hammer">
             <img src={logo} className="App-logo" alt="logo" />
           </span>
@@ -22,7 +22,7 @@ function App() {
         </p> */}
         <a
           className="App-link"
-          href="https://github.com/TurtleWolfe/fccTempLate"
+          href="https://github.com/TurtleWolfe/fccCookBook"
           target="_blank"
           rel="noopener noreferrer"
           title="TempLate Scaffolding for Free Code Camp Projects, with FontAwesome & Analytics"

@@ -1,5 +1,5 @@
 {
-  "name": "fcc_template",
+  "name": "fcc_cookbook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,7 +43,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TurtleWolfe/fccTempLate.git"
+    "url": "git+https://github.com/TurtleWolfe/fccCookBook.git"
   },
   "keywords": [
     "Node",
@@ -57,7 +57,7 @@
   "author": "TurtleWolfe @ ScriptHammer.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TurtleWolfe/fccTempLate/issues"
+    "url": "https://github.com/TurtleWolfe/fccCookBook/issues"
   },
-  "homepage": "https://turtlewolfe.github.io/fccTempLate"
+  "homepage": "https://turtlewolfe.github.io/fccCookBook"
 }
