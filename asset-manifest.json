@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fccCookBook/static/css/main.1e1637e4.chunk.css",
+    "main.js": "/fccCookBook/static/js/main.40aaddf2.chunk.js",
+    "main.js.map": "/fccCookBook/static/js/main.40aaddf2.chunk.js.map",
+    "runtime-main.js": "/fccCookBook/static/js/runtime-main.d46783d3.js",
+    "runtime-main.js.map": "/fccCookBook/static/js/runtime-main.d46783d3.js.map",
+    "static/js/2.d843afac.chunk.js": "/fccCookBook/static/js/2.d843afac.chunk.js",
+    "static/js/2.d843afac.chunk.js.map": "/fccCookBook/static/js/2.d843afac.chunk.js.map",
+    "static/js/3.8e3dd92b.chunk.js": "/fccCookBook/static/js/3.8e3dd92b.chunk.js",
+    "static/js/3.8e3dd92b.chunk.js.map": "/fccCookBook/static/js/3.8e3dd92b.chunk.js.map",
+    "index.html": "/fccCookBook/index.html",
+    "static/css/main.1e1637e4.chunk.css.map": "/fccCookBook/static/css/main.1e1637e4.chunk.css.map",
+    "static/js/2.d843afac.chunk.js.LICENSE.txt": "/fccCookBook/static/js/2.d843afac.chunk.js.LICENSE.txt",
+    "static/media/logo.11bcd0b5.svg": "/fccCookBook/static/media/logo.11bcd0b5.svg",
+    "static/media/App.css": "/fccCookBook/static/media/script-n-hammer.700392a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d46783d3.js",
+    "static/js/2.d843afac.chunk.js",
+    "static/css/main.1e1637e4.chunk.css",
+    "static/js/main.40aaddf2.chunk.js"
+  ]
+}
