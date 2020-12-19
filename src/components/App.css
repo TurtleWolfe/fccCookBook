@@ -58,7 +58,7 @@ a {
   max-width: 16em;
   margin: auto;
   overflow: hidden;
-  background-image: url(./images/script-n-hammer.png);
+  background-image: url(../images/script-n-hammer.png);
   /* background-size: 100% auto; */
   background-repeat: no-repeat;
   background-size: contain;
